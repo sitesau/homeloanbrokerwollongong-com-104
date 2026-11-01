@@ -1,0 +1,22 @@
+{
+  "wheel_id": 614,
+  "structure": "umbrella",
+  "slug": "homeloanbrokerwollongong-com-104",
+  "project": "mortgage-brokers-wollongong-budget-tips-e3e04666310c2e350a7fda2",
+  "parent_t1_ref": "homeloanbrokerwollongong-com-151",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokerwollongong.com.au",
+  "primary_kw": "mortgage brokers wollongong budget tips",
+  "intended_url": "https://aumedia.neocities.org/mortgage-brokers-wollongong-budget-tips-e3e04666310c2e350a7fda2/",
+  "tier": "T2",
+  "writeback_nonce": "98d6371fa057ba86",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/mortgage-brokers-wollongong-local-options-compared-09464a607c42/",
+      "anchor": "https://sites-e470-2.web.app/mortgage-brokers-wollongong-local-options-compared-09464a607c42/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
